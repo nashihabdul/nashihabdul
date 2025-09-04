@@ -2,19 +2,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slap&size=40&weight=600&center=true&vCenter=true&color=5C5427&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nashih+Abdul!;"/>
 </h1>
 
-<h3 align='center'>I am a Data Scientist from Indonesia. Currently pursuin a first-year online degree in Applied Artificial Intelligence at IU University of Applied Science Germany. I always believe that data containt valuable information and the way to extract it is an art. That's why come from International Relations and now end up in Data Science and AI. I'm experience in machine learning and deep learning modeling such as forecasting, estimating, and classification. Seeking for full-time data scientist or machine learning engineer position.</h3>
+<h3 align='center'>I am a professional AI Architect and Data Scientist from Indonesia. Currently I'm working in Malaysia as an AI Architect. I always believe that data containt valuable insight and the way to extract it is an art. Moreover, the way to deliver the insight as an generative model now rising since the LLM release. That's why come from International Relations and now end up in AI. I'm experienced in end-to-end process in AI development and machine learning modeling such as knowledge storage, agent builder, and agent integration with GPU and interface. Seeking for full-time opportunity as junior AI Engineer position.</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently focus on **Machine Learning & Deep Learning**
+ 🔭 I’m currently focus on **Artificial Intelligent Agent**
  
- 🌱 I’m currently learning **TensorFlow & YOLO** 
- 
- 💻 I'm also pursuing the next study on Applied Artificial Intelligence in **IU International University of Appled Science Berlin**
+ 🌱 I’m currently learning **Langchain & GPU Load Balancer** 
 
-💬 Ask me about **Data Science Projects or Collaboration**
+💬 Ask me about **AI Engineer Collaboration**
 </div>
 
 <br/>
