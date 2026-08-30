@@ -2,7 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=1A3A3A&repeat=false&random=true&width=435&lines=Hi%2C+I'm+Nashih+Abdul+Hasib" alt="Typing SVG" />
 </h1>
 
-<h3 align='center'>I am a professional AI Architect and Data Scientist from Indonesia. Currently I'm working in Malaysia as an AI Architect. I always believe that data containt valuable insight and the way to extract it is an art. Moreover, the way to deliver the insight as an generative model now rising since the LLM release. That's why come from International Relations and now end up in AI. I'm experienced in end-to-end process in AI development and machine learning modeling such as knowledge storage, agent builder, and agent integration with GPU and interface. Seeking for full-time opportunity as junior AI Engineer position.</h3>
+<h3 align='center'>I'm an AI Engineer currently working in Selangor, Malaysia (originally from Indonesia). My path started in International Relations, but curiosity about how data drives decisions pulled me into AI and machine learning. Today I focus on building end-to-end AI systems. Start from design agent architecture, deploying AI agents on GPU infrastructure and integrating existing system as source of knowledge into real products.</h3>
+<h3 align='center'>I believe good AI isn't just about speed, it's about turning insight into something people can actually use. Right now, I'm going back to the fundamentals, diving deep into neural networks and computer vision. I don't think intelligence is just about predicting the next token. I believe AI needs to experience reality, not just describe it.</h3>
+<h3 align='center'>Currently open to a full-time AI Engineer opportunities where I can build systems like this at scale.</h3>
 
 <br/>
 
