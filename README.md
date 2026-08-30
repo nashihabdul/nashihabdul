@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slap&size=40&weight=600&center=true&vCenter=true&color=5C5427&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nashih+Abdul!;"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=1A3A3A&repeat=false&random=true&width=435&lines=Hi%2C+I'm+Nashih+Abdul+Hasib" alt="Typing SVG" />
 </h1>
 
 <h3 align='center'>I am a professional AI Architect and Data Scientist from Indonesia. Currently I'm working in Malaysia as an AI Architect. I always believe that data containt valuable insight and the way to extract it is an art. Moreover, the way to deliver the insight as an generative model now rising since the LLM release. That's why come from International Relations and now end up in AI. I'm experienced in end-to-end process in AI development and machine learning modeling such as knowledge storage, agent builder, and agent integration with GPU and interface. Seeking for full-time opportunity as junior AI Engineer position.</h3>
