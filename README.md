@@ -2,19 +2,19 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=1A3A3A&repeat=false&random=true&width=500&height=70&lines=Hi%2C+I'm+Nashih+Abdul+Hasib" alt="Typing SVG" />
 </h1>
 
-<h3 align='center'>I'm an AI Engineer currently working in Malaysia (originally from Indonesia). Today I focus on building end-to-end AI systems, from designing agent architectures to deploying AI agents and integrating existing systems as a knowledge source for real products.</h3>
+<h3 align='center'>I'm an AI Engineer currently working in Malaysia (originally from Indonesia). Today I focus on building end-to-end AI systems, from designing agent architectures and developing AI agents to integrating existing systems as a knowledge source for real products.</h3>
 <h3 align='center'>After spending enough time in the RAG and chunking trenches, I started questioning whether predicting the next token is really "understanding"? That's what pulled me back into the fundamentals and lately diving deep into neural networks & computer vision. I don't think AI should just predict the next token, it should <i>experience</i> reality.</h3>
 <h3 align='center'>Currently open to full-time AI Engineer roles.</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently focus on **Artificial Intelligent Agent**
- 
- 🌱 I’m currently learning **Langchain & GPU Load Balancer** 
 
-💬 Ask me about **AI Engineer Collaboration**
+ 🔭 Currently focused on **AI Agents & Multi-Agent Systems**
+ 
+ 🌱 Currently learning **Neural Networks, Computer Vision & GPU Load Balancing**
+ 
+💬 Ask me about **AI Engineering & Agent Collaboration**
 </div>
 
 <br/>
@@ -27,11 +27,20 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt='linkedin' height='40'/></a>
   <a href="https://www.instagram.com/bangnashih/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt='instagram' height='40'/></a>
-  <a href="https://nashihabdul.github.io"">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt='website' height='40'/></a>
-  <a href="https://kaggle.com/bangnashih"">
+  <a href="https://kaggle.com/bangnashih">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" alt='kaggle' height='40'/></a>
 </div>
+
+<br/>
+
+<h2 align="center">My Personal Website</h2>
+<div align="center">
+  <a href="https://nashihabdul.github.io">
+    <img src="https://api.microlink.io/?url=https://nashihabdul.github.io&screenshot=true&meta=false&embed=screenshot.url" alt="Portfolio Preview" width="600" style="border-radius: 10px; border: 1px solid #ddd;"/>
+  </a>
+</div>
+
+<br/>
 
 <h2 align="center">Languages & Tools</h2>
 <br/>
