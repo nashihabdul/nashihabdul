@@ -35,7 +35,7 @@
 
 <h2 align="center">My Personal Website</h2>
 <div align="center">
-  <a href="https://nashihabdul.github.io">
+  <a href="https://nashihabdul.github.io" target="_blank" rel="noopener noreferrer">
     <img src="https://api.microlink.io/?url=https://nashihabdul.github.io&screenshot=true&meta=false&embed=screenshot.url" alt="Portfolio Preview" width="600" style="border-radius: 10px; border: 1px solid #ddd;"/>
   </a>
 </div>
@@ -43,46 +43,93 @@
 <br/>
 
 <h2 align="center">Languages & Tools</h2>
+
 <br/>
+
 <div align="center">
+
+  <!-- Languages -->
+
   <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%" /></a>
-  <a href="https://www.anaconda.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40" style="max-width: 100%" /></a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="max-width: 100%"/><a/>
-  <a href="https://pandas.pydata.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40" style="max-width: 100%"/><a/>
-  <a href="https://numpy.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40" style="max-width: 100%"/><a/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
   <a href="https://www.w3.org/html/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="40" height="40" style="max-width: 100%"/><a/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
   <a href="https://www.w3schools.com/css/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="40" height="40" style="max-width: 100%"/><a/>
-  <a href="https://www.mysql.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%"/><a/>
-  <a href="https://seaborn.pydata.org/">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" style="max-width: 100%"/><a/>
-  <a href="https://matplotlib.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" alt="matplotlib" width="40" height="40" style="max-width: 100%"/><a/>
-  <a href="https://scikit-learn.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="40" height="40" style="max-width: 100%"/><a/>
-  <a href="https://optuna.org/">
-    <img src="http://vitelek.com/wp-content/themes/preferred/assets/img/projects/optuna/pict01.jpg" alt="optuna" height="40" style="max-width: 100%"/><a/>
-  <a href="http://facebook.github.io/prophet/">
-    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*tVCene42rgUTNv9Q.png" alt="prophet" height="40" style="max-width: 100%"/><a/>
-  <a href="https://www.tensorflow.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" style="max-width: 100%"/><a/>
-  <a href="https://keras.io/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="keras" width="40" height="40" style="max-width: 100%"/><a/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+
+  <!-- Machine Learning & Deep Learning -->
+
   <a href="https://pytorch.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" style="max-width: 100%"/><a/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://keras.io/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
+  </a>
   <a href="https://opencv.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="40" height="40" style="max-width: 100%"/><a/>
-  <a href="https://pjreddie.com/yolo/">
-    <img src="https://pjreddie.com/media/image/yologo_2.png" alt="yolo" height="40" style="max-width: 100%"/><a/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV" width="40" height="40"/>
+  </a>
+
+  <!-- Generative AI & LLM -->
+
+  <a href="https://www.langchain.com/">
+    <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="40" height="40"/>
+  </a>
+  <a href="https://www.agno.com/">
+    <img src="https://cdn.simpleicons.org/agno/1C3C3C" alt="Agno" width="40" height="40"/>
+  </a>
+  <a href="https://docs.vllm.ai/">
+    <img src="https://raw.githubusercontent.com/vllm-project/vllm/main/docs/logos/vllm-logo-text-light.svg" alt="vLLM" width="60" height="40"/>
+  </a>
+
+  <!-- Vector Databases -->
+
+  <a href="https://www.trychroma.com/">
+    <img src="https://cdn.simpleicons.org/chroma/1C3C3C" alt="Chroma" width="40" height="40"/>
+  </a>
+  <a href="https://qdrant.tech/">
+    <img src="https://cdn.simpleicons.org/qdrant/DC244C" alt="Qdrant" width="40" height="40"/>
+  </a>
+
+  <!-- Backend & Infrastructure -->
+
+  <a href="https://www.docker.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/">
+    <img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" width="40" height="40"/>
+  </a>
+
+  <!-- Databases -->
+
+  <a href="https://www.postgresql.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+
+  <!-- Forecasting -->
+
+  <a href="https://facebook.github.io/prophet/">
+    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*tVCene42rgUTNv9Q.png" alt="Prophet" height="40"/>
+  </a>
+
+  <!-- Object Detection -->
+
+  <a href="https://pjreddie.com/darknet/yolo/">
+    <img src="https://pjreddie.com/static/img/yologo.png" alt="YOLO" height="40"/>
+  </a>
+
 </div>
+
 <br/>
+
 
 <h2 align="center">Certificates</h2>
 <br/>
