@@ -78,19 +78,19 @@
   <!-- Generative AI & LLM -->
 
   <a href="https://www.langchain.com/">
-    <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="40" height="40"/>
+    <img src="https://images.seeklogo.com/logo-png/61/1/langchain-icon-logo-png_seeklogo-611655.png" alt="LangChain" height="40"/>
   </a>
   <a href="https://www.agno.com/">
-    <img src="https://cdn.simpleicons.org/agno/1C3C3C" alt="Agno" width="40" height="40"/>
+    <img src="https://www.agno.com/logo.png" alt="Agno" height="40"/>
   </a>
   <a href="https://docs.vllm.ai/">
-    <img src="https://raw.githubusercontent.com/vllm-project/vllm/main/docs/logos/vllm-logo-text-light.svg" alt="vLLM" width="60" height="40"/>
+    <img src="https://raw.githubusercontent.com/vllm-project/vllm/main/docs/assets/logos/vllm-logo-text-light.png" alt="vLLM" width="60" height="40"/>
   </a>
 
   <!-- Vector Databases -->
 
   <a href="https://www.trychroma.com/">
-    <img src="https://cdn.simpleicons.org/chroma/1C3C3C" alt="Chroma" width="40" height="40"/>
+    <img src="https://images.seeklogo.com/logo-png/48/1/chroma-logo-png_seeklogo-482133.png" alt="Chroma" width="40" height="40"/>
   </a>
   <a href="https://qdrant.tech/">
     <img src="https://cdn.simpleicons.org/qdrant/DC244C" alt="Qdrant" width="40" height="40"/>
