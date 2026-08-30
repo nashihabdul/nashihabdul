@@ -135,15 +135,11 @@
 <br/>
 <div align="center">
   <a href="https://github.com/nashihabdul/certficates/blob/main/data_scientist.pdf">
-    <img src="https://comeet-euw-app.s3.amazonaws.com/2200/2870caa9b59ddb91b39235ad102a0945ced99e5c" alt="Data Scientist" height="60" style="max-width: 100%"/><a/>
-  <a href="https://github.com/nashihabdul/certficates/blob/main/microsoft%20ai%20fundamentals.pdf">
-    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft AI-900" height="60" style="max-width: 100%"/><a/>
+    <img src="https://comeet-euw-app.s3.amazonaws.com/2200/2870caa9b59ddb91b39235ad102a0945ced99e5c" alt="Data Scientist" height="60" style="max-width: 100%"/></a>
   <a href="https://github.com/nashihabdul/certficates/blob/main/duolingo_english_test.pdf">
-    <img src="https://static.wixstatic.com/media/8b19d9_ebf5d374b3044af4b73cc2def43e5cdc~mv2.png/v1/fill/w_749,h_1001,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/8b19d9_ebf5d374b3044af4b73cc2def43e5cdc~mv2.png" alt="Duolingo English" height="60" style="max-width: 100%"/><a/>
+    <img src="https://static.wixstatic.com/media/8b19d9_ebf5d374b3044af4b73cc2def43e5cdc~mv2.png/v1/fill/w_749,h_1001,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/8b19d9_ebf5d374b3044af4b73cc2def43e5cdc~mv2.png" alt="Duolingo English" height="60" style="max-width: 100%"/></a>
   <a href="https://github.com/nashihabdul/certficates/blob/main/itp_online_blc.pdf">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/b6/6e/b3b66e9d-aa6e-8abd-3839-9893c0fe51fe/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" alt="ITP English" height="60" style="max-width: 100%"/><a/>
-  <a href="https://github.com/nashihabdul/certficates/blob/main/ibm_z_day.pdf">
-    <img src="https://v.fastcdn.co/u/0bc8903d/64422810-0-zDay-23-IP-Banner-dr.png" alt="IBM Z Day 2023" height="60" style="max-width: 100%"/><a/>
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/b6/6e/b3b66e9d-aa6e-8abd-3839-9893c0fe51fe/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" alt="ITP English" height="60" style="max-width: 100%"/></a>
 </div>
 
 <h2 align="center">Kaggle Competitions Participation</h2>
