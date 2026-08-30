@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=1A3A3A&repeat=false&random=true&width=500&height=70&lines=Hi%2C+I'm+Nashih+Abdul+Hasib" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=1A3A3A&repeat=false&random=true&width=450&height=70&center=true&vCenter=true&lines=Hi%2C+I'm+Nashih+Abdul+Hasib" alt="Typing SVG" />
 </h1>
 
 <h3 align='center'>I'm an AI Engineer currently working in Malaysia (originally from Indonesia). Today I focus on building end-to-end AI systems, from designing agent architectures and developing AI agents to integrating existing systems as a knowledge source for real products.</h3>
