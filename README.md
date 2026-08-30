@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=1A3A3A&repeat=false&random=true&width=435&lines=Hi%2C+I'm+Nashih+Abdul+Hasib" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=1A3A3A&repeat=false&random=true&width=500&height=70&lines=Hi%2C+I'm+Nashih+Abdul+Hasib" alt="Typing SVG" />
 </h1>
 
-<h3 align='center'>I'm an AI Engineer currently working in Selangor, Malaysia (originally from Indonesia). My path started in International Relations, but curiosity about how data drives decisions pulled me into AI and machine learning. Today I focus on building end-to-end AI systems. Start from design agent architecture, deploying AI agents on GPU infrastructure and integrating existing system as source of knowledge into real products.</h3>
-<h3 align='center'>I believe good AI isn't just about speed, it's about turning insight into something people can actually use. Right now, I'm going back to the fundamentals, diving deep into neural networks and computer vision. I don't think intelligence is just about predicting the next token. I believe AI needs to experience reality, not just describe it.</h3>
-<h3 align='center'>Currently open to a full-time AI Engineer opportunities where I can build systems like this at scale.</h3>
+<h3 align='center'>I'm an AI Engineer currently working in Malaysia (originally from Indonesia). Today I focus on building end-to-end AI systems, from designing agent architectures to deploying AI agents and integrating existing systems as a knowledge source for real products.</h3>
+<h3 align='center'>After spending enough time in the RAG and chunking trenches, I started questioning whether predicting the next token is really "understanding"? That's what pulled me back into the fundamentals and lately diving deep into neural networks & computer vision. I don't think AI should just predict the next token, it should <i>experience</i> reality.</h3>
+<h3 align='center'>Currently open to full-time AI Engineer roles.</h3>
 
 <br/>
 
