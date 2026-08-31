@@ -135,7 +135,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/nashihabdul/certficates/blob/main/data_scientist.pdf">
-    <img src="https://comeet-euw-app.s3.amazonaws.com/2200/2870caa9b59ddb91b39235ad102a0945ced99e5c" alt="Data Scientist" height="60" style="max-width: 100%"/></a>
+    <img src="https://tripleten.com/gen-assets/logo/tripleten-wordmark.svg" alt="Data Scientist" height="60" style="max-width: 100%"/></a>
   <a href="https://github.com/nashihabdul/certficates/blob/main/duolingo_english_test.pdf">
     <img src="https://static.wixstatic.com/media/8b19d9_ebf5d374b3044af4b73cc2def43e5cdc~mv2.png/v1/fill/w_749,h_1001,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/8b19d9_ebf5d374b3044af4b73cc2def43e5cdc~mv2.png" alt="Duolingo English" height="60" style="max-width: 100%"/></a>
   <a href="https://github.com/nashihabdul/certficates/blob/main/itp_online_blc.pdf">
