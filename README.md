@@ -144,8 +144,8 @@
 <h2 align="center">Agentic AI Projects</h2>
 
 <p align="center">
-  A collection of agentic AI systems built to solve practical problems through
-  <b>LLM orchestration, tool use, knowledge retrieval, and interactive interfaces.</b>
+  A collection of my agentic AI systems built to solve practical problems through
+  <b>RAG application and interactive interfaces.</b>
 </p>
 
 <br/>
@@ -157,7 +157,7 @@
   <th>Agent</th>
   <th>Description</th>
   <th>Capabilities</th>
-  <th>Technology</th>
+  <th>Tools</th>
   <th>Try It Out</th>
 </tr>
 </thead>
@@ -168,7 +168,7 @@
   <td><b>BaliProp Agent</b></td>
   <td>
     An AI assistant designed for property brokers in Bali. It helps brokers
-    monitor client progress, answer common client questions, keep track of
+    monitor client progress, answer FAQs, keep track of
     follow-ups, and receive reminders for upcoming meetings and activities.
     The agent can also present property-related information through
     interactive map-based visualizations.
@@ -176,7 +176,7 @@
   <td>
     Client Monitoring<br/>
     Task & Schedule Management<br/>
-    Property Q&A<br/>
+    FAQs<br/>
     Map Visualization
   </td>
   <td>
@@ -287,11 +287,11 @@
 
 <br/>
 
-<p align="center">
-  Most of my professional AI work is subject to Non-Disclosure Agreements,
+<p align="left">
+  <b>Important Notes:</b> Most of my professional AI work is subject to Non-Disclosure Agreements,
   so I cannot publicly share the systems I build professionally.
   These projects are therefore personal implementations that demonstrate
-  my approach to building <b>production-oriented agentic AI systems</b>.
+  my approach to building <b>agentic AI systems</b>.
 </p>
 
 
