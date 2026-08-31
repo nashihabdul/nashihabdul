@@ -370,27 +370,6 @@
             <td align="center"><img src="https://comeet-euw-app.s3.amazonaws.com/2200/2870caa9b59ddb91b39235ad102a0945ced99e5c" alt="TripleTen" height="40" style="max-width: 100%" /></td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td align="center"><img src="" alt="" height="40" style="max-width: 100%" /></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td align="center"><img src="" alt="" height="40" style="max-width: 100%" /></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td align="center"><img src="" alt="" height="40" style="max-width: 100%" /></td>
-        </tr>
-        <tr>
             <td colspan="5">See more of my data scientist projects in my <a href="https://github.com/nashihabdul/data_science_projects/">repositories</a> or my <a href="https://www.datascienceportfol.io/nashihabdul">personal website</a></td>
         </tr>
     </tbody>
