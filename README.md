@@ -2,19 +2,26 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=1A3A3A&repeat=false&random=true&width=450&height=70&center=true&vCenter=true&lines=Hi%2C+I'm+Nashih+Abdul+Hasib" alt="Typing SVG" />
 </h1>
 
-<h3 align='center'>I'm an AI Engineer currently working in Malaysia (originally from Indonesia). Today I focus on building end-to-end AI systems, from designing agent architectures and developing AI agents to integrating existing systems as a knowledge source for real products.</h3>
-<h3 align='center'>After spending enough time in the RAG and chunking trenches, I started questioning whether predicting the next token is really "understanding"? That's what pulled me back into the fundamentals and lately diving deep into neural networks & computer vision. I don't think AI should just predict the next token, it should <i>experience</i> reality.</h3>
-<h3 align='center'>Currently open to full-time AI Engineer roles.</h3>
+<div align='left'>
+
+I'm an **AI Engineer** currently working in Malaysia. My core strength are building end-to-end AI systems, from designing agent architectures, developing AI agents, and integrating existing systems as a knowledge sources.
+
+After spending enough time in the RAG architecture and chunking context, I started questioning whether predicting the next token is really "understanding" that leads to intelligence? That's what pulled me back into the fundamentals and diving deep into neural networks & computer vision to **enhance agentic architecture**. I don't think AI should just predict the next token, it should experience reality.
+
+**Seeking opportunity as full-time AI Engineer roles.**
+
+</div>
 
 <br/>
 
-<div align="center">
+<div align="left">
 
- 🔭 Currently focused on **AI Agents & Multi-Agent Systems**
+ 🔭 Currently focused on **AI Agents in Agriculture**
  
- 🌱 Currently learning **Neural Networks, Computer Vision & GPU Load Balancing**
+ 🌱 Currently learning **Neural Networks, Computer Vision & Internet of Things (IoT)**
  
-💬 Ask me about **AI Engineering & Agent Collaboration**
+ 💬 Ask me about **AI Engineering & Collaboration**
+
 </div>
 
 <br/>
