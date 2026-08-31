@@ -130,7 +130,6 @@
 
 <br/>
 
-
 <h2 align="center">Certificates</h2>
 <br/>
 <div align="center">
@@ -141,6 +140,160 @@
   <a href="https://github.com/nashihabdul/certficates/blob/main/itp_online_blc.pdf">
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/b6/6e/b3b66e9d-aa6e-8abd-3839-9893c0fe51fe/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" alt="ITP English" height="60" style="max-width: 100%"/></a>
 </div>
+
+<h2 align="center">Agentic AI Projects</h2>
+
+<p align="center">
+  A collection of agentic AI systems built to solve practical problems through
+  <b>LLM orchestration, tool use, knowledge retrieval, and interactive interfaces.</b>
+</p>
+
+<br/>
+
+<div align="center">
+<table>
+<thead>
+<tr>
+  <th>Agent</th>
+  <th>Description</th>
+  <th>Capabilities</th>
+  <th>Technology</th>
+  <th>Try It Out</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+  <td><b>BaliProp Agent</b></td>
+  <td>
+    An AI assistant designed for property brokers in Bali. It helps brokers
+    monitor client progress, answer common client questions, keep track of
+    follow-ups, and receive reminders for upcoming meetings and activities.
+    The agent can also present property-related information through
+    interactive map-based visualizations.
+  </td>
+  <td>
+    Client Monitoring<br/>
+    Task & Schedule Management<br/>
+    Property Q&A<br/>
+    Map Visualization
+  </td>
+  <td>
+    LangChain<br/>
+    LangGraph<br/>
+    FastAPI<br/>
+    FastMCP<br/>
+    Chroma<br/>
+    OpenRouter<br/>
+    React
+  </td>
+  <td align="center">
+    <a href="https://nashihabdul.github.io/">Website</a>
+  </td>
+</tr>
+
+<tr>
+  <td><b>LexRef AI</b></td>
+  <td>
+    An AI legal reference assistant for legal consultants in Indonesia.
+    The system is equipped with knowledge from the Indonesian Criminal Code
+    (KUHP) under Law No. 1 of 2023 and is designed to help users locate,
+    explore, and understand relevant legal references. It is intended as a
+    research and reference tool rather than a system for determining or
+    winning legal cases.
+  </td>
+  <td>
+    Legal Reference Retrieval<br/>
+    Contextual Q&A<br/>
+    Knowledge Retrieval<br/>
+    Legal Document Exploration
+  </td>
+  <td>
+    LangChain<br/>
+    LangGraph<br/>
+    FastAPI<br/>
+    FastMCP<br/>
+    Chroma<br/>
+    OpenRouter<br/>
+    React
+  </td>
+  <td align="center">
+    <a href="https://nashihabdul.github.io/">Website</a>
+  </td>
+</tr>
+
+<tr>
+  <td><b>Statistika AI</b></td>
+  <td>
+    An AI-powered statistical analysis assistant built with knowledge from
+    Statistics Indonesia (BPS). It enables users to explore and analyze
+    statistical datasets using analytical workflows inspired by traditional
+    statistical software such as SPSS. The agent can also transform analytical
+    results into interactive visual presentations.
+  </td>
+  <td>
+    Statistical Analysis<br/>
+    Data Exploration<br/>
+    SPSS-like Workflows<br/>
+    Data Visualization<br/>
+    Automated Insights
+  </td>
+  <td>
+    LangChain<br/>
+    LangGraph<br/>
+    FastAPI<br/>
+    FastMCP<br/>
+    Chroma<br/>
+    OpenRouter<br/>
+    React
+  </td>
+  <td align="center">
+    <a href="https://nashihabdul.github.io/">Website</a>
+  </td>
+</tr>
+
+<tr>
+  <td><b>Misa AI</b></td>
+  <td>
+    An AI assistant designed to support priests in preparing sermons for Mass.
+    It helps organize ideas, explore relevant references, and structure sermon
+    materials into a coherent presentation while keeping the priest in control
+    of the final message.
+  </td>
+  <td>
+    Sermon Preparation<br/>
+    Reference Retrieval<br/>
+    Content Structuring<br/>
+    Idea Development
+  </td>
+  <td>
+    LangChain<br/>
+    LangGraph<br/>
+    FastAPI<br/>
+    FastMCP<br/>
+    Chroma<br/>
+    OpenRouter<br/>
+    React
+  </td>
+  <td align="center">
+    <a href="https://nashihabdul.github.io/">Website</a>
+  </td>
+</tr>
+
+</tbody>
+</table>
+</div>
+
+<br/>
+
+<p align="center">
+  Most of my professional AI work is subject to Non-Disclosure Agreements,
+  so I cannot publicly share the systems I build professionally.
+  These projects are therefore personal implementations that demonstrate
+  my approach to building <b>production-oriented agentic AI systems</b>.
+</p>
+
 
 <h2 align="center">Kaggle Competitions Participation</h2>
 <br/>
@@ -238,7 +391,7 @@
             <td align="center"><img src="" alt="" height="40" style="max-width: 100%" /></td>
         </tr>
         <tr>
-            <td colspan="5">See 10+ more of my data scientist projects in my <a href="https://github.com/nashihabdul/data_science_projects/">repositories</a> or my <a href="https://www.datascienceportfol.io/nashihabdul">personal website</a></td>
+            <td colspan="5">See more of my data scientist projects in my <a href="https://github.com/nashihabdul/data_science_projects/">repositories</a> or my <a href="https://www.datascienceportfol.io/nashihabdul">personal website</a></td>
         </tr>
     </tbody>
     </table>
