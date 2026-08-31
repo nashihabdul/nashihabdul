@@ -4,17 +4,11 @@
 
 <div align='left'>
 
-I'm an **AI Engineer** currently working in Malaysia. My core strength are building end-to-end AI systems, from designing agent architectures, developing AI agents, and integrating existing systems as a knowledge sources.
+I'm an **AI Engineer** currently working in Malaysia. My core strength is building end-to-end AI systems, from designing agent architectures, developing AI agents, and integrating existing systems as a knowledge sources.
 
 After spending enough time in the RAG architecture and chunking context, I started questioning whether predicting the next token is really "understanding" that leads to intelligence? That's what pulled me back into the fundamentals and diving deep into neural networks & computer vision to **enhance agentic architecture**. I don't think AI should just predict the next token, it should experience reality.
 
 **Seeking opportunity as full-time AI Engineer roles.**
-
-</div>
-
-<br/>
-
-<div align="left">
 
  🔭 Currently focused on **AI Agents in Agriculture**
  
