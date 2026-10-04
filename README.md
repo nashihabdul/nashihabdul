@@ -34,7 +34,7 @@ After spending enough time in the RAG architecture and chunking context, I start
 
 <br/>
 
-<h2 align="center">My Personal Website</h2>
+<h2 align="center">Visit My Laboratorium</h2>
 <div align="center">
   <a href="https://nashihlabs.com" target="_blank" rel="noopener noreferrer">
     <img src="https://api.microlink.io/?url=https://nashihlabs.com&screenshot=true&meta=false&embed=screenshot.url" alt="Portfolio Preview" width="600" style="border-radius: 10px; border: 1px solid #ddd;"/>
