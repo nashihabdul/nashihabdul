@@ -36,8 +36,8 @@ After spending enough time in the RAG architecture and chunking context, I start
 
 <h2 align="center">My Personal Website</h2>
 <div align="center">
-  <a href="https://nashihabdul.github.io" target="_blank" rel="noopener noreferrer">
-    <img src="https://api.microlink.io/?url=https://nashihabdul.github.io&screenshot=true&meta=false&embed=screenshot.url" alt="Portfolio Preview" width="600" style="border-radius: 10px; border: 1px solid #ddd;"/>
+  <a href="https://nashihlabs.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://api.microlink.io/?url=https://nashihlabs.com&screenshot=true&meta=false&embed=screenshot.url" alt="Portfolio Preview" width="600" style="border-radius: 10px; border: 1px solid #ddd;"/>
   </a>
 </div>
 
@@ -220,7 +220,7 @@ After spending enough time in the RAG architecture and chunking context, I start
     React
   </td>
   <td align="center">
-    <a href="https://nashihabdul.github.io/">Website</a>
+    <a href="https://nashihlabs.com/">Website</a>
   </td>
 </tr>
 
@@ -250,7 +250,7 @@ After spending enough time in the RAG architecture and chunking context, I start
     React
   </td>
   <td align="center">
-    <a href="https://nashihabdul.github.io/">Website</a>
+    <a href="https://nashihlabs.com/">Website</a>
   </td>
 </tr>
 
@@ -278,7 +278,7 @@ After spending enough time in the RAG architecture and chunking context, I start
     React
   </td>
   <td align="center">
-    <a href="https://nashihabdul.github.io/">Website</a>
+    <a href="https://nashihlabs.com/">Website</a>
   </td>
 </tr>
 
@@ -371,7 +371,7 @@ After spending enough time in the RAG architecture and chunking context, I start
             <td align="center"><img src="https://comeet-euw-app.s3.amazonaws.com/2200/2870caa9b59ddb91b39235ad102a0945ced99e5c" alt="TripleTen" height="40" style="max-width: 100%" /></td>
         </tr>
         <tr>
-            <td colspan="5">See more of my data scientist projects in my <a href="https://github.com/nashihabdul/data_science_projects/">repositories</a> or my <a href="https://nashihabdul.github.io/">personal website</a></td>
+            <td colspan="5">See more of my data scientist projects in my <a href="https://github.com/nashihabdul/data_science_projects/">repositories</a> or my <a href="https://nashihlabs.com/">personal website</a></td>
         </tr>
     </tbody>
     </table>
