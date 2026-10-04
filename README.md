@@ -190,7 +190,7 @@ After spending enough time in the RAG architecture and chunking context, I start
     React
   </td>
   <td align="center">
-    <a href="https://nashihabdul.github.io/">Website</a>
+    <a href="https://nashihlabs.com">Website</a>
   </td>
 </tr>
 
